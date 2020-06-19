@@ -21,4 +21,5 @@
 20. [linked list cycle ii Python3 solution](https://leetcode.com/problems/linked-list-cycle-ii/discuss/488739/Python3-two-pointer-approach) </br>
 21. [surrounded regions Python3 solution](https://leetcodex.xyz/problems/surrounded-regions/discuss/526539/Python3-dfs-solution) </br>
 22. [single element in a sorted array Python3 solution](https://leetcodex.xyz/problems/single-element-in-a-sorted-array/discuss/509638/Python3-using-xor) </br>
-23. [lexicographical numbers python3 solution](https://leetcode.com/problems/lexicographical-numbers/discuss/688372/Python3-solution-using-DFS)
+23. [lexicographical numbers Python3 solution](https://leetcode.com/problems/lexicographical-numbers/discuss/688372/Python3-solution-using-DFS)
+24. [flatten a multilevel doubly linked list Python3 solution](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/discuss/695233/Python3-solution-using-recursion)

@@ -23,3 +23,4 @@
 22. [single element in a sorted array Python3 solution](https://leetcodex.xyz/problems/single-element-in-a-sorted-array/discuss/509638/Python3-using-xor) </br>
 23. [lexicographical numbers Python3 solution](https://leetcode.com/problems/lexicographical-numbers/discuss/688372/Python3-solution-using-DFS)
 24. [flatten a multilevel doubly linked list Python3 solution](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/discuss/695233/Python3-solution-using-recursion)
+25. [construct binary tree from preorder and inorder traversal Python3 solution](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/488780/Python3-recursive-approach)

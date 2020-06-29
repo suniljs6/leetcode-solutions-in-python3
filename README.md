@@ -26,4 +26,3 @@
 25. [construct binary tree from preorder and inorder traversal Python3 solution](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/488780/Python3-recursive-approach)
 26. [find largest value in each tree row Python3 solution](https://leetcode.com/problems/find-largest-value-in-each-tree-row/discuss/695348/Python3-preorder-traversal-solution)
 27. [merge k sorted lists python3 solution](https://leetcode.com/problems/merge-k-sorted-lists/discuss/703614/Python3-solution-using-heapq)
-28. [facebook](https://facebook.com)

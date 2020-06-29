@@ -1,4 +1,5 @@
 # leetcode-solutions in python3
+
 1. [flatten binary tree to linked list solution in python3](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/681774/python3-solution-using-postorder-traversal-o1-space-complexity) </br>
 2. [kth lexicographical string of all happy strings solution in python3](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/discuss/676440/python3-on-solution-using-math-with-clear-explanation)
 3. [remove zero sum consecutive nodes from linked list in python3](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/discuss/675308/python3-simple-solution)

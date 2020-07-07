@@ -29,3 +29,4 @@
 27. [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/discuss/703614/Python3-solution-using-heapq)
 28. [island perimeter](https://leetcode.com/problems/island-perimeter/discuss/724078/Python3-solution-using-DFS)
 29. [last moment before all ants fall out of a plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/discuss/724084/Python3-O(n)-simple-solution)
+30. [binary tree level order traversal ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/discuss/724091/Python3-solution-using-BFS)

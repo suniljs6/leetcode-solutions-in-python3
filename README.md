@@ -34,3 +34,4 @@
 32. [swap nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs/discuss/724100/Python3-O(n)-solution)
 33. [valid parentheses](https://leetcode.com/problems/valid-parentheses/discuss/724103/Python3-solution-using-stack)
 34. [letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/724106/Python3-solution-using-backtracking)
+35. [maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/724115/Python3-solution-using-kadens)

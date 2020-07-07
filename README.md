@@ -30,3 +30,4 @@
 28. [island perimeter](https://leetcode.com/problems/island-perimeter/discuss/724078/Python3-solution-using-DFS)
 29. [last moment before all ants fall out of a plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/discuss/724084/Python3-O(n)-simple-solution)
 30. [binary tree level order traversal ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/discuss/724091/Python3-solution-using-BFS)
+31. [remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/724098/Python3-O(n)time-and-O(1)space)

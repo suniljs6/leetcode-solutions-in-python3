@@ -32,3 +32,4 @@
 30. [binary tree level order traversal ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/discuss/724091/Python3-solution-using-BFS)
 31. [remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/724098/Python3-O(n)time-and-O(1)space)
 32. [swap nodes in pairs](https://leetcode.com/problems/swap-nodes-in-pairs/discuss/724100/Python3-O(n)-solution)
+33. [valid parentheses](https://leetcode.com/problems/valid-parentheses/discuss/724103/Python3-solution-using-stack)

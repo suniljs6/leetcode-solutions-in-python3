@@ -35,3 +35,4 @@
 33. [valid parentheses](https://leetcode.com/problems/valid-parentheses/discuss/724103/Python3-solution-using-stack)
 34. [letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/724106/Python3-solution-using-backtracking)
 35. [maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/724115/Python3-solution-using-kadens)
+36. [next permutation](https://leetcode.com/problems/next-permutation/discuss/724118/Python3-solution)

@@ -1,4 +1,4 @@
-# leetcode-solutions in python3
+# **leetcode-solutions**
 
 1. [flatten binary tree to linked list solution](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/681774/python3-solution-using-postorder-traversal-o1-space-complexity)
 2. [kth lexicographical string of all happy strings solution](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/discuss/676440/python3-on-solution-using-math-with-clear-explanation)

@@ -37,3 +37,4 @@
 35. [maximum subarray](https://leetcode.com/problems/maximum-subarray/discuss/724115/Python3-solution-using-kadens)
 36. [next permutation](https://leetcode.com/problems/next-permutation/discuss/724118/Python3-solution)
 37. [next greater element iii](https://leetcode.com/problems/next-greater-element-iii/discuss/724120/Python3-solution-same-as-next-permutation)
+38. [keys and rooms](https://leetcode.com/problems/keys-and-rooms/discuss/784454/Simple-Python3-DFS-solution)

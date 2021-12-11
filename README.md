@@ -39,3 +39,4 @@
 37. [next greater element iii](https://leetcode.com/problems/next-greater-element-iii/discuss/724120/Python3-solution-same-as-next-permutation)
 38. [keys and rooms](https://leetcode.com/problems/keys-and-rooms/discuss/784454/Simple-Python3-DFS-solution)
 39. [merge intervals](https://leetcode.com/problems/merge-intervals/discuss/797257/Python3-solution-using-sort)
+40. [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/discuss/1623076/Python3-O(n)-space-and-time)

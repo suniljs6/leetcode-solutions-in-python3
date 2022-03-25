@@ -40,3 +40,4 @@
 38. [keys and rooms](https://leetcode.com/problems/keys-and-rooms/discuss/784454/Simple-Python3-DFS-solution)
 39. [merge intervals](https://leetcode.com/problems/merge-intervals/discuss/797257/Python3-solution-using-sort)
 40. [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/discuss/1623076/Python3-O(n)-space-and-time)
+41. [Two Sum II] (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/1882469/Python3-solution-using-Two-pointers)

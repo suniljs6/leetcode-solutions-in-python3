@@ -43,3 +43,4 @@
 41. [Two Sum](https://leetcode.com/problems/two-sum/discuss/1882505/Python3-solution-in-O(N)-using-hashMap)
 42. [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/1882469/Python3-solution-using-Two-pointers)
 43. [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/discuss/1882494/Python3-solution-using-Two-pointer-approach)
+44. [squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/1882625/Python3-two-pointer-approach)

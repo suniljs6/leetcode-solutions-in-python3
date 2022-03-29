@@ -45,3 +45,4 @@
 43. [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/discuss/1882494/Python3-solution-using-Two-pointer-approach)
 44. [squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/1882625/Python3-two-pointer-approach)
 45. [Rotate Array](https://leetcode.com/problems/rotate-array/discuss/1894487/Python-solution-with-O(1)-space)
+46. [Move Zeros](https://leetcode.com/problems/move-zeroes/discuss/1894546/Python-O(N)-using-two-pointer-algorithm-faster-than-98)
